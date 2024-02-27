@@ -5,7 +5,6 @@
 - [] Treinos Específicos para Ciclo Menstrual
 - [] Calendário de Treinos e Atividades
 - [] Avaliação de Progresso
-- [] Conteúdo Educativo
 - [] Autenticação
 
 ## EndPoints
