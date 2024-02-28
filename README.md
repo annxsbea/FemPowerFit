@@ -1,10 +1,10 @@
 # FemPowerFit
 
 ## Requisitos
-- [] Registro e Acompanhamento de Suplementação
-- [] Treinos Específicos para Ciclo Menstrual
-- [] Calendário de Treinos e Atividades
-- [] Avaliação de Progresso
+- [] CRUD Registro e Acompanhamento de Suplementação
+- [] CRUD Treinos Específicos para Ciclo Menstrual
+- [] CRUD Calendário de Treinos e Atividades
+- [] CRUD Avaliação de Progresso
 - [] Autenticação
 
 ## EndPoints
